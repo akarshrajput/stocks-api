@@ -136,3 +136,13 @@ td {
 .curr-diff {
   color: #3dc6c1;
 }
+.name-img-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+.name-img-container img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
